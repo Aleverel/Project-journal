@@ -1,6 +1,6 @@
 body {
-  background-color: #74992e;
+  background-color: $cyan-200;
 }
-p{
+nav{
   color: blue;
 }
